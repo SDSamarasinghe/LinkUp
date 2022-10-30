@@ -19,7 +19,6 @@
             android:layout_marginTop="3dp"
             android:src="" />
 
-
         <TextView
             android:id="@+id/editTopText"
             android:layout_width="match_parent"
