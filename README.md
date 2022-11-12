@@ -9,9 +9,6 @@ Users can simply register for the app, and they can find their dream jobs in all
 Do not close the app if you did not find the required opportunity, you can post a job request. You can market yourself by adding your educational qualifications, experience in the field and other qualifications to the job request. You can attract the world's best companies in the IT field anytime anywhere. While you are scrolling through the job vacancies, finding one and planning to apply for it later you can save it for future reference and apply when you are free. It is specifically designed to minimize misplacing your job advertisements.   
 If a company is seeking for an individual with the necessary skills to hire, they can post a job advertisement to find a suitable candidate from the millions of qualified job finders all over the world. We do not mind if you are a brand-new startup or a historical company, the app is open for everyone. Anyone can use this app easily.
   
-  <h4>Link for the video in social media : </h4>
-  <li>https://www.linkedin.com/posts/lalindu-m-rubasinghe-48920a212_android-androiddevelopment-java-activity-6929113398903267328-2hzK?utm_source=linkedin_share&utm_medium=member_desktop_web</li>
-
 </h4>
 
 <h3 >Contributers</h3>
